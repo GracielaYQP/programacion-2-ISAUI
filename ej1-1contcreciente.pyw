@@ -30,4 +30,4 @@ boton_incrementar = Button(ventana, width = 5, text = " + ", font = ("arial",16)
 boton_incrementar.place(x = 225, y = 70)
 
 ventana.mainloop()
-#estoy usanda el git 
+#estoy tratando de hacer el dev
