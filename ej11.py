@@ -37,4 +37,4 @@ for i in range(0,2):
 #         Msj = Msj + " " + str(matsuma [i][j])
 #     Msj = Msj + "\n"
 
-
+#en este ejercicio esta sin terminar
